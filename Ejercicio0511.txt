@@ -1,0 +1,12 @@
+Ejercicio Clase 05/11/2021
+Se necesita crear un progrma para una casa de comidas rapidas, la misma debe tener:
+-Presentacion de la aplicacion joption con icon de la copañia
+-Soliictar antes de la seleccion del pedido al cliente nombre y formas de pago
+-Solicitarle el tipo de Hamburguesa con joption con combo
+-Solicitarle el tipo de Papas fritas  con joption con combo
+-Solicitarle el tipo de Bebidas con joption con combo
+-Mostrar el pedido seleccionado en pantalla por joption y datos del cliente
+-Los productos deben estar en tres vectores separados
+
+
+
